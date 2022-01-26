@@ -11,7 +11,7 @@ To use this application, you need to have a [TACC](https://www.tacc.utexas.edu/)
 First clone this repository:
 
 ```
-git clone https://github.com/cdelcastillo21/tapis-pylauncher
+git clone https://github.com/UT-CHG/tapis-pylauncher
 ```
 
 Further set-up for app usage is covered in the Setup Jupyter Notebook. See below.
